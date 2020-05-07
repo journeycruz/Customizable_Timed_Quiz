@@ -1,0 +1,17 @@
+.fixedTime {
+    position: fixed;
+    text-align: center;
+    margin: 0;
+    top: 0;
+    right: 0;
+    padding: 10px;
+}
+
+#highScoreLink {
+    position: fixed;
+    text-align: center;
+    margin: 0;
+    top: 0;
+    left: 0;
+    padding: 10px;
+}
