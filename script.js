@@ -45,7 +45,7 @@ allElementIds = ["header", "mainParagraph", "initialsParagraph", "resultParagrap
 var nonQuestionHeaders = ["Coding Quiz Challenge", "All done!", "Highscores"];
 
 // create array for p tags before and after quiz loop
-var paragraphs = ["Try to answer the following code-related questions within the time limit. Keep in mind that incorrect answers will penalize your score/time by ten seconds!", " Your final scores is ", "Enter Initials: "];
+var paragraphs = ["Try to answer the following code-related questions within the time limit. Keep in mind that incorrect answers will penalize your score/time by ten seconds!", " Your final score is ", "Enter Initials: "];
 
 var nonChoiceButtons = ["Start Quiz", "Submit", "Go Back", "Clear Highscores"];
 
