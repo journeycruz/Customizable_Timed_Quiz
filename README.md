@@ -1,1 +1,3 @@
 # Homework_04_Coding_Quiz
+
+Here is a coding quiz to help you test your programming knowledge. You have 75 seconds to complete the 5 questions provided. You will earn 20 points for every question answered correctly and you will lose 10 seconds for every question answered incorrectly. Your score will be added to local storage at the end of the quiz, but unfortunately at this time there is no way to see highscores in a list.
